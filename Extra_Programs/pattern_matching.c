@@ -13,7 +13,7 @@ int main() {
     
     for (int i = 0; i <= str_len - pat_len; i++) {
         int j;
-        for (j = 0; j < pat_len; j++) {
+        for ( j = 0; j < pat_len; j++) {
             if (str[i + j] != pattern[j]) {
                 break;
             }
