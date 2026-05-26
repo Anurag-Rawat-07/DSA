@@ -29,7 +29,6 @@ void insert_last(int data){
       temp=temp->next;
    }
    temp->next=newnode;
-   
 }
 
 void insert_pos(int data, int pos){
@@ -50,8 +49,59 @@ void insert_pos(int data, int pos){
       }
       newnode->next=temp->next;
       temp->next=newnode;
-   
 }
+
+void delete_front(){
+   if(head==NULL){
+      printf("List is empty\n");
+      return;
+   }
+   printf("The node detected is:%d",head->data);
+   struct node *temp=head;
+   head=head->next;
+   free(temp);
+}
+
+void delete_rear(){
+   if(head==NULL){
+      printf("List is empty \n");
+      return;
+   }
+   struct node *temp=head;
+   if(temp->next==NULL){
+      free(temp);
+      head=NULL;
+      return;
+   }
+   while(temp->next->next!=NULL){
+      temp=temp->next;
+   }
+   free(temp->next);
+   temp->next=NULL;
+}
+
+void delete_pos(int pos){
+   if(head==NULL){
+      printf("List is empty\n");
+      return;
+   }
+   struct node *temp=head;
+   if(pos==1){
+      head=head->next;
+      free(temp);
+   }
+   for(int i=1;temp!=NULL && i<pos-1; i++){
+      temp=temp->next;
+   }
+   if(temp==NULL){
+      printf("Invalid Position\n");
+      return;
+   }
+   struct node *current=temp->next;
+   temp->next=current->next;
+   free(current);
+}
+
 void display(){
    if(head==NULL){
       printf("Empty list\n");
@@ -68,7 +118,7 @@ void display(){
 int main(){
    int choice,data,pos;
    while(1==1){
-      printf("*******CHOOSE OPERATION******* \n1.Insert from front \n2.Insert from rear\n3.Insert in between\n4.Display \nEnter your choice:");
+      printf("*******CHOOSE OPERATION******* \n1.Insert from front \n2.Insert from rear\n3.Insert in between\n4.Delet front\n5.Delete rear\n6.Delete positio\n7.Display\nEnter your choice:");
       scanf("%d",&choice);
       switch(choice){
          case 1:
@@ -92,6 +142,20 @@ int main(){
          break;
 
          case 4:
+         delete_front();
+         break;
+
+         case 5:
+         delete_rear();
+         break;
+
+         case 6:
+         printf("Enter position:");
+         scanf("%d",&pos);
+         delete_pos(pos);
+         break;
+
+         case 7:
          display();
          break;
 
