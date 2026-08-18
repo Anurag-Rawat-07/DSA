@@ -25,6 +25,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/anurag-rawat-hub/DSA/tree/master/0041-first-missing-positive) |
+| [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -34,4 +35,16 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/anurag-rawat-hub/DSA/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
