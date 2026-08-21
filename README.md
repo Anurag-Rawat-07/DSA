@@ -45,6 +45,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/anurag-rawat-hub/DSA/tree/master/0058-length-of-last-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
