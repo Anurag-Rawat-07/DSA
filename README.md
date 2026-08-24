@@ -30,6 +30,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anurag-rawat-hub/DSA/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -50,6 +51,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anurag-rawat-hub/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
@@ -79,4 +81,8 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
