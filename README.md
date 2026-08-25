@@ -85,4 +85,9 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/anurag-rawat-hub/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/anurag-rawat-hub/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
