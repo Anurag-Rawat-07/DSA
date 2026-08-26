@@ -61,6 +61,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -88,10 +89,12 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | ------- |
 | [0013-roman-to-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anurag-rawat-hub/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anurag-rawat-hub/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
