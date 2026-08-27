@@ -96,9 +96,14 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anurag-rawat-hub/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/anurag-rawat-hub/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anurag-rawat-hub/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
