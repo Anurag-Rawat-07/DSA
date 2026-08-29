@@ -12,6 +12,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0088-merge-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag-rawat-hub/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/anurag-rawat-hub/DSA/tree/master/0724-find-pivot-index) |
@@ -26,6 +27,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag-rawat-hub/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -33,6 +35,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag-rawat-hub/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +43,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0041-first-missing-positive](https://github.com/anurag-rawat-hub/DSA/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -49,6 +53,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0088-merge-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
