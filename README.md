@@ -102,12 +102,14 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0013-roman-to-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anurag-rawat-hub/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anurag-rawat-hub/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anurag-rawat-hub/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,4 +118,12 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anurag-rawat-hub/DSA/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
