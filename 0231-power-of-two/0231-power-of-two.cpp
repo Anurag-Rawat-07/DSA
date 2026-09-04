@@ -5,8 +5,6 @@ public:
         if(n<=0){
             return false;
         }
-        double x=std::log2(n);
-        
-        return x==floor(x);
+        return (n & (n-1))==0;
     }
 };
