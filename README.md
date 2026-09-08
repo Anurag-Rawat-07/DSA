@@ -119,6 +119,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anurag-rawat-hub/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3870-count-commas-in-range](https://github.com/anurag-rawat-hub/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anurag-rawat-hub/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
