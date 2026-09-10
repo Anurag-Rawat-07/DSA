@@ -89,6 +89,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | ------- |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/anurag-rawat-hub/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anurag-rawat-hub/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Counting
