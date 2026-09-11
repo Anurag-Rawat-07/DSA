@@ -55,6 +55,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/anurag-rawat-hub/DSA/tree/master/0705-design-hashset) |
@@ -68,6 +69,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -83,6 +85,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0058-length-of-last-word](https://github.com/anurag-rawat-hub/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/anurag-rawat-hub/DSA/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -90,6 +93,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | ------- |
 | [0136-single-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anurag-rawat-hub/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
