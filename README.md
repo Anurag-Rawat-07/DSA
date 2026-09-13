@@ -10,6 +10,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/anurag-rawat-hub/DSA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/anurag-rawat-hub/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/anurag-rawat-hub/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0137-single-number-ii) |
@@ -92,6 +93,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anurag-rawat-hub/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
@@ -180,4 +182,8 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anurag-rawat-hub/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anurag-rawat-hub/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
