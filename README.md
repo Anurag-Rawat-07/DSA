@@ -15,6 +15,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0136-single-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag-rawat-hub/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -54,6 +55,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | ------- |
 | [0013-roman-to-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anurag-rawat-hub/DSA/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -68,6 +70,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | ------- |
 | [0075-sort-colors](https://github.com/anurag-rawat-hub/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -105,6 +108,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String Matching
@@ -147,6 +151,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -186,4 +191,8 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anurag-rawat-hub/DSA/tree/master/0078-subsets) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
