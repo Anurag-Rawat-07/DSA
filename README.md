@@ -20,6 +20,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anurag-rawat-hub/DSA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/anurag-rawat-hub/DSA/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/anurag-rawat-hub/DSA/tree/master/0724-find-pivot-index) |
@@ -195,4 +196,12 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
