@@ -15,6 +15,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0088-merge-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag-rawat-hub/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -47,6 +48,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag-rawat-hub/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
