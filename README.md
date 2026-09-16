@@ -8,6 +8,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/anurag-rawat-hub/DSA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/anurag-rawat-hub/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anurag-rawat-hub/DSA/tree/master/0078-subsets) |
@@ -33,6 +34,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/anurag-rawat-hub/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0088-merge-sorted-array) |
