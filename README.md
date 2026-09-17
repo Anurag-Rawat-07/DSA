@@ -99,6 +99,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0344-reverse-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/anurag-rawat-hub/DSA/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -122,6 +123,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
