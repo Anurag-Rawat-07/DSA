@@ -168,6 +168,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0206-reverse-linked-list](https://github.com/anurag-rawat-hub/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anurag-rawat-hub/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/anurag-rawat-hub/DSA/tree/master/0705-design-hashset) |
+| [1669-merge-in-between-linked-lists](https://github.com/anurag-rawat-hub/DSA/tree/master/1669-merge-in-between-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
