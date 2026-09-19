@@ -45,6 +45,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0344-reverse-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/anurag-rawat-hub/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -209,8 +211,10 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
