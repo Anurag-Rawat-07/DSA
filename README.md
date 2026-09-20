@@ -114,6 +114,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0136-single-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anurag-rawat-hub/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anurag-rawat-hub/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -148,6 +149,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0013-roman-to-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anurag-rawat-hub/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anurag-rawat-hub/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anurag-rawat-hub/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anurag-rawat-hub/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -161,6 +163,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0203-remove-linked-list-elements](https://github.com/anurag-rawat-hub/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anurag-rawat-hub/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anurag-rawat-hub/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
