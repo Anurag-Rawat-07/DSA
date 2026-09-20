@@ -56,6 +56,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag-rawat-hub/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/anurag-rawat-hub/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/anurag-rawat-hub/DSA/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anurag-rawat-hub/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -151,6 +152,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anurag-rawat-hub/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anurag-rawat-hub/DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/anurag-rawat-hub/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anurag-rawat-hub/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anurag-rawat-hub/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
