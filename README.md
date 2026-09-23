@@ -116,6 +116,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0078-subsets](https://github.com/anurag-rawat-hub/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/anurag-rawat-hub/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anurag-rawat-hub/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/anurag-rawat-hub/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
@@ -176,6 +177,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/anurag-rawat-hub/DSA/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
