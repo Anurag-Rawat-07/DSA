@@ -34,6 +34,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anurag-rawat-hub/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anurag-rawat-hub/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anurag-rawat-hub/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -161,6 +162,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anurag-rawat-hub/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anurag-rawat-hub/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anurag-rawat-hub/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/anurag-rawat-hub/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anurag-rawat-hub/DSA/tree/master/3875-construct-uniform-parity-array-i) |
