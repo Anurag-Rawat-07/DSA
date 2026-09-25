@@ -34,6 +34,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anurag-rawat-hub/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2706-buy-two-chocolates](https://github.com/anurag-rawat-hub/DSA/tree/master/2706-buy-two-chocolates) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anurag-rawat-hub/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anurag-rawat-hub/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -94,6 +95,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2706-buy-two-chocolates](https://github.com/anurag-rawat-hub/DSA/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,4 +244,8 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/anurag-rawat-hub/DSA/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
