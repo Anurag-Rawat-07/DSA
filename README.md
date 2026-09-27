@@ -212,6 +212,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anurag-rawat-hub/DSA/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/anurag-rawat-hub/DSA/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -232,6 +233,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anurag-rawat-hub/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
