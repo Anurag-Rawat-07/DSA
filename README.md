@@ -114,6 +114,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0796-rotate-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -236,11 +237,13 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0155-min-stack](https://github.com/anurag-rawat-hub/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
