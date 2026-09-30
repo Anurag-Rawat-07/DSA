@@ -237,6 +237,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/anurag-rawat-hub/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
@@ -256,4 +257,16 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/anurag-rawat-hub/DSA/tree/master/2706-buy-two-chocolates) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
