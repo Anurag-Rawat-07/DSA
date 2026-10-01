@@ -25,6 +25,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0349-intersection-of-two-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/anurag-rawat-hub/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/anurag-rawat-hub/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anurag-rawat-hub/DSA/tree/master/0704-binary-search) |
