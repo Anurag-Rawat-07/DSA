@@ -33,6 +33,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anurag-rawat-hub/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/anurag-rawat-hub/DSA/tree/master/2706-buy-two-chocolates) |
@@ -98,6 +99,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/anurag-rawat-hub/DSA/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
@@ -271,4 +273,8 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
