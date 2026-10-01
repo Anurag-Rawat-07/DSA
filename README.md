@@ -30,6 +30,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0704-binary-search](https://github.com/anurag-rawat-hub/DSA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/anurag-rawat-hub/DSA/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/anurag-rawat-hub/DSA/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anurag-rawat-hub/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -98,6 +99,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag-rawat-hub/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/anurag-rawat-hub/DSA/tree/master/2706-buy-two-chocolates) |
@@ -192,6 +194,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-rawat-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/anurag-rawat-hub/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anurag-rawat-hub/DSA/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -276,5 +279,22 @@ I will upload my DSA lab programs and other additional DSA programs here.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
