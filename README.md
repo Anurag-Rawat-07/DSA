@@ -172,6 +172,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0326-power-of-three](https://github.com/anurag-rawat-hub/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anurag-rawat-hub/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/anurag-rawat-hub/DSA/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anurag-rawat-hub/DSA/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anurag-rawat-hub/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anurag-rawat-hub/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
