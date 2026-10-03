@@ -121,6 +121,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/anurag-rawat-hub/DSA/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/anurag-rawat-hub/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/anurag-rawat-hub/DSA/tree/master/0844-backspace-string-compare) |
