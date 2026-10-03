@@ -36,6 +36,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0977-squares-of-a-sorted-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anurag-rawat-hub/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anurag-rawat-hub/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anurag-rawat-hub/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anurag-rawat-hub/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
