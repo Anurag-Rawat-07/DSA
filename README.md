@@ -276,6 +276,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anurag-rawat-hub/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/anurag-rawat-hub/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -283,6 +284,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anurag-rawat-hub/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/anurag-rawat-hub/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -290,6 +292,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anurag-rawat-hub/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/anurag-rawat-hub/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anurag-rawat-hub/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -318,4 +321,8 @@ I will upload my DSA lab programs and other additional DSA programs here.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anurag-rawat-hub/DSA/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anurag-rawat-hub/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
