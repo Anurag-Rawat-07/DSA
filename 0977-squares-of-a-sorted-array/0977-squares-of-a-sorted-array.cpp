@@ -6,16 +6,19 @@ public:
 
         int left = 0;
         int right = n - 1;
-
-        for(int i = n - 1; i >= 0; i--) {
-            if(abs(nums[left]) > abs(nums[right])) {
-                ans[i] = nums[left] * nums[left];
+        int index=n-1;
+        while(left<=right){
+            int leftsq=nums[left]*nums[left];
+            int rightsq=nums[right]*nums[right];
+            if(leftsq>rightsq){
+                ans[index]=leftsq;
                 left++;
             }
-            else {
-                ans[i] = nums[right] * nums[right];
+            else{
+                ans[index]=rightsq;
                 right--;
             }
+            index--;
         }
 
         return ans;
